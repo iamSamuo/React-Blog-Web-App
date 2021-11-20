@@ -1,0 +1,70 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted. According to the article Effective Business Communication by Venecia Williams, communication is key in every aspect of life. Business success can also be affected by communication. According to the article, communication is considered a human form of relating with each other by either the means of storytelling or having a normal human conversation. The way a person or the business owner, in this case, an entrepreneur, communicates with customers determines how they will impact the business. Communication between the customer and the seller can be made effective through rehearsal and patience. Information to be shared with customers needs to be prepared to eliminate mistakes. In the business world, communication comes into place when you, as the business owner, need to conduct a presentation to your client. The presentation aims at keeping the client well informed on the services you offer and how they will solve the client’s problem.",
+      "author": "Mario",
+      "id": 1
+    },
+    {
+      "title": "Opening Party",
+      "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted. According to the article Effective Business Communication by Venecia Williams, communication is key in every aspect of life. Business success can also be affected by communication. According to the article, communication is considered a human form of relating with each other by either the means of storytelling or having a normal human conversation. The way a person or the business owner, in this case, an entrepreneur, communicates with customers determines how they will impact the business. Communication between the customer and the seller can be made effective through rehearsal and patience. Information to be shared with customers needs to be prepared to eliminate mistakes. In the business world, communication comes into place when you, as the business owner, need to conduct a presentation to your client. The presentation aims at keeping the client well informed on the services you offer and how they will solve the client’s problem.",
+      "author": "Yoshi",
+      "id": 2
+    },
+    {
+      "title": "sammy",
+      "body": "come home soon\n",
+      "author": "yoshi",
+      "id": 3
+    },
+    {
+      "title": "nakuona",
+      "body": "jana likua ana ufala ata hukua unadai kuongea na mtu kwa offisi bana . noma ilikua gani, ama ata uliachwa na hausemi man.",
+      "author": "yoshi",
+      "id": 4
+    },
+    {
+      "title": "the kenyan jeneration diary",
+      "body": "ata wewe uajua wakenya hakuna haja ya kuambiwa.",
+      "author": "mario",
+      "id": 5
+    },
+    {
+      "title": "wewe",
+      "body": "kaka niaje",
+      "author": "mario",
+      "id": 6
+    },
+    {
+      "title": "kimani",
+      "body": "wenu",
+      "author": "mario",
+      "id": 7
+    },
+    {
+      "title": "kimani",
+      "body": "wenu",
+      "author": "mario",
+      "id": 8
+    },
+    {
+      "title": "kimani",
+      "body": "wenu",
+      "author": "mario",
+      "id": 9
+    },
+    {
+      "title": "home",
+      "body": "i really what to tell you how am feeling\n",
+      "author": "yoshi",
+      "id": 10
+    },
+    {
+      "title": "saamyy",
+      "body": "kariuki kimani is the  king of the world ",
+      "author": "yoshi",
+      "id": 11
+    }
+  ]
+}

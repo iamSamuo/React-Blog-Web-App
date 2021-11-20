@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "About page",
+      "body": "The most traditional page on any blog is the About page. This page tells new visitors to your blog what it is about, who you are and why you have a blog about your particular topic. Depending on your niche and your style, the information you provide can be “all business” or personal and fun.",
+      "author": "yoshi",
+      "id": 1
+    },
+    {
+      "title": "Contact Page",
+      "body": "This page allows visitors of your blog to communicate with you at any time. It can be a simple page with your email address plus social network links, or you can use plugins like Contact Form 7 to have a simple contact form that visitors can use to communicate with you without leaving your website.",
+      "author": "mario",
+      "id": 2
+    },
+    {
+      "title": "The End of Slavenly",
+      "body": "Sammy is the king of the world and have the most entertaining thing to do in the future",
+      "author": "mario",
+      "id": 6
+    },
+    {
+      "title": "African History",
+      "body": "Afican Historical events have been recorded in book form the beginning of the world to the end of the world, many have the insight of wanting to read and learn more about Africa and how humans stay in the continent named Africa.",
+      "author": "mario",
+      "id": 7
+    }
+  ]
+}
